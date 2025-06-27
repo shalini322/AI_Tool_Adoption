@@ -8,10 +8,10 @@ This project explores a Kaggle dataset containing insights into the adoption, us
 
 - **Python** (Jupyter Notebook)
 - **Libraries Used:**
-  - `pandas`,
+  - `pandas`
   -  `numpy`
-  - `matplotlib`,
-  - `seaborn`,
+  - `matplotlib`
+  - `seaborn`
   -  `plotly`
 
 ---
